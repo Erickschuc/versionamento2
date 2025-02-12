@@ -1,0 +1,23 @@
+{
+  "name": "versionamento2",
+  "version": "1.0.0",
+  "description": "teste de versionamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erickschuc/versionamento2.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "author": "erick miguel schuck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erickschuc/versionamento2/issues"
+  },
+  "homepage": "https://github.com/Erickschuc/versionamento2#readme"
+}
